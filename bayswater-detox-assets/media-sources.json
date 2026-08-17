@@ -1,0 +1,94 @@
+{
+  "checked": "2026-08-13",
+  "image_and_video_license": {
+    "name": "Pexels licence",
+    "url": "https://www.pexels.com/license/"
+  },
+  "assets": [
+    {
+      "file": "hero-spa-pool.mp4",
+      "creator": "Pavel Danilyuk",
+      "source": "https://www.pexels.com/video/footage-of-indoor-swimming-pool-6616373/"
+    },
+    {
+      "file": "hero-poster.jpg",
+      "creator": "Pavel Danilyuk",
+      "source": "https://www.pexels.com/video/footage-of-indoor-swimming-pool-6616373/",
+      "note": "Locally encoded still frame from the licensed source video."
+    },
+    {
+      "file": "facility-jacuzzi.jpg",
+      "creator": "Jill Patience",
+      "source": "https://www.pexels.com/photo/modern-wooden-interior-with-jacuzzi-14929512/"
+    },
+    {
+      "file": "facility-sauna.jpg",
+      "creator": "Gustavo Galeano Maz",
+      "source": "https://www.pexels.com/photo/a-sauna-interior-25084818/"
+    },
+    {
+      "file": "facility-steam.jpg",
+      "creator": "Ata Ebem",
+      "source": "https://www.pexels.com/photo/interior-of-a-luxurious-spa-room-with-marble-tiles-15528970/"
+    },
+    {
+      "file": "facility-cold-plunge.jpg",
+      "creator": "naniko kipiani",
+      "source": "https://www.pexels.com/photo/relaxing-spa-session-with-ice-bath-therapy-35637834/"
+    },
+    {
+      "file": "facility-private-gym.jpg",
+      "creator": "Curtis Adams",
+      "source": "https://www.pexels.com/photo/modern-home-gym-interior-with-fitness-equipment-36777945/"
+    },
+    {
+      "file": "facility-experience-shower.jpg",
+      "creator": "Алан Албегов",
+      "source": "https://www.pexels.com/photo/contemporary-sauna-and-shower-area-21038556/"
+    },
+    {
+      "file": "facility-relaxation.jpg",
+      "creator": "Max Vakhtbovych",
+      "source": "https://www.pexels.com/photo/comfortable-tiled-loungers-in-contemporary-wellness-center-in-daylight-7031707/"
+    },
+    {
+      "file": "facility-treatment.jpg",
+      "creator": "Max Vakhtbovych",
+      "source": "https://www.pexels.com/photo/interior-of-a-massage-room-7598366/"
+    },
+    {
+      "file": "facility-vanity.jpg",
+      "creator": "Tatianne Heruza Lacerda Amaral",
+      "source": "https://www.pexels.com/photo/elegant-bathroom-vanity-with-wicker-mirror-34053830/"
+    },
+    {
+      "file": "stay-bedroom.jpg",
+      "creator": "Curtis Adams",
+      "source": "https://www.pexels.com/photo/modern-neutral-bedroom-with-wooden-flooring-36777937/"
+    },
+    {
+      "file": "stay-bathroom.jpg",
+      "creator": "Alexander Mass",
+      "source": "https://www.pexels.com/photo/luxurious-wooden-cabin-bathroom-with-tub-33640973/"
+    },
+    {
+      "file": "editorial-private-ritual.jpg",
+      "creator": "Ron Lach",
+      "source": "https://www.pexels.com/photo/person-inside-the-spa-room-9146385/"
+    }
+  ],
+  "fonts": [
+    {
+      "file": "cormorant-garamond-variable.ttf",
+      "family": "Cormorant Garamond",
+      "source": "https://github.com/google/fonts/tree/main/ofl/cormorantgaramond",
+      "license": "SIL Open Font License 1.1"
+    },
+    {
+      "file": "montserrat-variable.ttf",
+      "family": "Montserrat",
+      "source": "https://github.com/google/fonts/tree/main/ofl/montserrat",
+      "license": "SIL Open Font License 1.1"
+    }
+  ]
+}

@@ -1,0 +1,800 @@
+{
+  "client": "Bayswater Detox",
+  "checked_date": "2026-08-14",
+  "generated_from": "research/bayswater_detox_evidence_2026-08-14.json",
+  "entry_count": 88,
+  "entries": [
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb-first-fold-mobile.webp",
+      "source_url": "https://www.airbnb.co.uk/rooms/1523014237474008222",
+      "checked_date": "2026-08-14",
+      "provenance": "Playwright, 390×844 viewport, 'Only necessary' cookies selected",
+      "limitation": "Airbnb personalises and reflows listing pages.",
+      "bytes": 131624,
+      "sha256": "49c211cfdfe919fcf44b91647a58c5eb6536a0b09246b9bf20b39a055353f32a"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb-first-fold.webp",
+      "source_url": "https://www.airbnb.co.uk/rooms/1523014237474008222",
+      "checked_date": "2026-08-14",
+      "provenance": "Playwright, 1440×1000 viewport, 'Only necessary' cookies selected",
+      "limitation": "Airbnb personalises and reflows listing pages.",
+      "bytes": 585134,
+      "sha256": "9f00218fa984235a3523baabb9d78552dff3a55ac061170bb1c4497fcb4a5b46"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-01.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/11f565e2-8888-485c-9517-2cf4eef5f042.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-01",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 51573,
+      "sha256": "b524bd3870be58eb25bec82db41fa5b280ee3a586fdc63113a7d7d659694da0a"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-02.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/025f981f-5e13-4380-9bbe-e4edfc1467cd.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-02",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 35215,
+      "sha256": "6582418f59da85811c3f5c54f3f39aa49fb916ab187da8eca16a93fbf3eef5c6"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-03.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/5994339f-ce99-4a40-8aa9-a41febd646c3.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-03",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 54291,
+      "sha256": "55dc99cf1287e9813422df7803aeab393575c571bcf56684a205b03ae19f8dc6"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-04.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/2f030165-f44c-4de5-912a-408ccbd528a0.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-04",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 54228,
+      "sha256": "517219447f2cfb1061f20a16e9f33b9dfe5331663f964ee424fb7c831cf14de8"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-05.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/79f69a22-552c-4edb-8a6b-54ab82554e0d.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-05",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 72094,
+      "sha256": "1eb46bc4bde84baa5d207dec23fac46f1f5f6eb65b99bfda5d8886d6ba0257f9"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-06.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/357abb2e-ff81-407a-b329-3602a9b28d04.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-06",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 111599,
+      "sha256": "1edf1a6a976cebba0f0b956036ef85d062b4a531fd8620505cf3cb68f599416f"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-07.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/8b4dfaa9-8143-4b95-a383-48d7b994685d.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-07",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 71495,
+      "sha256": "211e6f8f1fd27013e3ad2df8a5dcd1112224108bb17aee675072bb8e0db8cdc1"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-08.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/cc4c2696-a33d-4d12-b621-d0072f287c7d.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-08",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 84368,
+      "sha256": "6753a7b561d33c5c7a628e6c1fc8ce93f5931e65696d1e234d8fe3159b5d7ae1"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-09.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/46e1c7da-1235-4fe8-ac74-63e95c059839.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-09",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 88036,
+      "sha256": "c0cda271ed5f451dc7c1d398a635641525142e5f915217090ee4aa4235311fd1"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-10.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/0fe3eda9-c7b7-4f27-8bee-ecc17e8c7d9c.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-10",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 60450,
+      "sha256": "3d81632f108f1c9e4639b720c30ee39c9e726bd652a691a932369de688079c15"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-11.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/6c7d6de2-a53c-4e50-8c2a-030e53d9fbc2.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-11",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 36179,
+      "sha256": "6111f81dbe4ccdbd4e5401e2e74037df9462f71c414b05bbc14ad70272438434"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-12.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/eabee7c0-55ca-45f7-9ceb-335562ff8191.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-12",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 60167,
+      "sha256": "d060fd5da6d7803481e4eaf48806d77db84808224bae0e468d355dd8a048e007"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-13.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/6f14543c-5957-4f8b-9612-b862dc44bb9d.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-13",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 99988,
+      "sha256": "0d75614ccaab47b7608e219f384422dd97d52efd10fa86d0ddd0ef5ceab12694"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-14.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/2c9be116-b67b-4ef2-9072-e25cd412d52a.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-14",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 77473,
+      "sha256": "a82fe642026e6ba2ad2b58e532e5c73105eb40114c58c8f39356734ca2e52992"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-15.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/678b04b3-5e04-469b-872a-65489a264c59.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-15",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 67347,
+      "sha256": "b308f64dc3b010a71a5a03ed1b9e7452e9e6d171a550c7ff4e71efb9d5e74763"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-16.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/67e7c40d-3401-491a-a0f9-9650caed467a.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-16",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 81582,
+      "sha256": "bd6fed7d2d53f847dd5097bc84fe4bc2aba491d2b28117a37cc9712424f642c2"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-17.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/c9197d08-1850-4f92-941f-6635fedb4845.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-17",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 90286,
+      "sha256": "b5fccf311a14af5aa9adecf03c69da57f851f4aa26945015f908bc4ec8c5fac8"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-18.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/19a60d6e-d235-494f-aa87-f6ad25b43fad.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-18",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 25826,
+      "sha256": "da491439c7ff9056e8d7ed3f4c2015ca95bdc390d49dbeef624c106427190070"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-19.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/2b431044-1539-4330-bfa5-6eaa5e688c96.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-19",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 58721,
+      "sha256": "3a1bed6051fedd9430ad27113a2bc83249ccd555a82ce7a043ddb60418bb7ce7"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-20.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/a5dcfa2e-0d7c-44fc-95ef-0b36f8834686.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-20",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 81267,
+      "sha256": "f0df2add1221b256b1c747858a0e0cdeef39b887ca305f2c27b6848f7833d01c"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-21.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/494aa3ca-ac1e-4cb4-a9d6-263d25917fa4.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-21",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 123296,
+      "sha256": "d85672f66d59a7ac40da8bb7f075d2df82e5fd1730763f0873414535a3291676"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-22.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/7de0455b-a07d-4892-8217-325d786e53bd.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-22",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 100642,
+      "sha256": "b6e749d6064c0d604c57f34f91c3b524af08a8f0d71d69e74bbb726db1b2f6f3"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-23.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/0e1d2c3b-4175-48bd-b0fc-6a2f13b7e7ad.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-23",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 59889,
+      "sha256": "5511b2543cddcfce2e1c638d456156f0872e175d9aad17c705aed3b910848cfd"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-24.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/5944d684-bfb6-4e4f-9547-8355361ca1a4.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-24",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 106487,
+      "sha256": "600cc3b94c605db97e859202663838060de20f3cfa1b1901fb5fa90d96ccaf19"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-25.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/7538146e-24cf-48d8-a1d1-74784e50d2eb.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-25",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 53553,
+      "sha256": "38b797ba93c2ce4ae83a19a4e0d0a12c3020b217c856c7551177a1b000956001"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-26.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/af982f2d-d451-45e2-9157-829e8a2b3bb0.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-26",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 70871,
+      "sha256": "0016879f6d88b4b41276ac224b75fd5d70bb0faea41f29a6b71a7e5360b44ed2"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-27.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/86e6e166-9b25-4cee-834b-ff274a6b2701.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-27",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 61218,
+      "sha256": "2c7ff1cd255ae635cca3edb9291461d61c874ad1a20eaae07ffeb1dc9f22c9c1"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-28.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/3e9afeef-883a-4a58-8bf8-4bd979d77067.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-28",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 78859,
+      "sha256": "98db9e0421c427c2f4f71a0f49a31c029ea14fe9ef9e07b806d33e1e1cb31838"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-29.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/ec550215-f362-428a-bb4f-00cc52d7b2b4.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-29",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 27859,
+      "sha256": "d887eec25b089a2241ee0bb3af1d624bd54ab8bcdab4121e3fe82d70762959f3"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-30.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/a30d7d12-3da2-481a-9bf5-57215eaa0d41.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-30",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 52939,
+      "sha256": "211d8c75c4129649ea36d6a8b9f407fd2433b81233fd8457ff2fb0896b0038d8"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-31.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/55ce5767-96bf-4f54-9c81-d82bec072274.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-31",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 64798,
+      "sha256": "fea57f0040a8e19614b21e63515a796ec12c07426fa5502d538c91cf4fa1adf2"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-32.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/2c6704fe-736a-49b4-a484-ed063672fa6b.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-32",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 54284,
+      "sha256": "657ecb36a13ae51a153229b25cce2ea5fabe0cd7a7ddb06d4ec5bc89e3da111a"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-33.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/25af0375-544f-4384-ad7e-fcf15b9ad70c.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-33",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 77013,
+      "sha256": "c025103ba6d5d8f10ce667855f4cf0f5852dfbae2f66de82be74e8a878a4cb38"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-34.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/4ec2f8e5-0df9-4dda-b349-5918a9d6e859.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-34",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 122060,
+      "sha256": "8685a41c0218b74b1ba97d96cc8e44c9fb52f591cdb11bda1252418ed120678a"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-35.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/c2c17037-28b7-4e8a-b9e9-7d2c928bb88f.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-35",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 57172,
+      "sha256": "995e2fd16af6692e1916e72047e5e1ab81d3e62875b8b9c858d68d7378367127"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-36.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/28599b96-8d38-450f-b60f-57e68e4a8f1b.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-36",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 20443,
+      "sha256": "32a49ad79024ab58733bf85581f78d8efb9a0136adb17fc00fedb88665f44f42"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-37.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/d45c8dc0-0897-46d1-9002-0c48f92828c1.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-37",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 117550,
+      "sha256": "3ff153c98447ad839c2cd567a64fcbf805daf7194f130fd71b7e93b886bd6def"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-38.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/17bb245d-dccb-4c26-abf1-9c0bccac75c6.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-38",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 26402,
+      "sha256": "cafc793f05a52fd33fb6fc0e549fcb975ebd38b9bc09cdd2ec5278bc3baf062e"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-39.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/2f9123a4-bfa5-4170-9b8b-f6feaa2a8449.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-39",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 51342,
+      "sha256": "f22b28f95dfb2df4f2e3b6a47176b704bf36b3393b1ce49a129e704def812fbc"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-40.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/e6a6715d-8420-4608-9944-726b2891bcc4.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-40",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 128645,
+      "sha256": "cc67e93b3475d407f1f55374c9457fd559342b4eed311f9b022407c3a597082b"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-41.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/bb051480-3389-493f-baaf-dffbc308ca46.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-41",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 60747,
+      "sha256": "f4598dba6ca4b4802ef3e048b8891312c3205ffb9cda3241108b31b6ef0d6897"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-42.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/08e07107-cfbe-4547-8a17-12a028498f57.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-42",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 91152,
+      "sha256": "d410ef331a18bb639953cb03c57dcca2dcf9d9cc290c02c7aabaa1bd0518fac3"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-43.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/0702d4d6-5ab8-49b8-8e38-cfbdfd6b5acc.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-43",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 103048,
+      "sha256": "dd96d8ad9d95614c5fe39fc6c15a33d63caec5b2ff100d096b5f529881b9b26b"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-44.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/0bee4c62-aea0-4eaf-b0ff-c47d128f94d4.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-44",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 192610,
+      "sha256": "20d25e56c5ceced3fb62991c7a879a8469b69370c1559cc51666d909492f2f66"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-45.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/467e6bc5-e817-4f7b-ab83-cb71c145b34f.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-45",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 83181,
+      "sha256": "aecc2af829a14e0b6d38eb2f36c360b20b65736567016af4d8c9185343999d15"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-46.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/8489b517-1056-4bc0-acad-fd35f6326946.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-46",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 53252,
+      "sha256": "b93098ed17d3f887832a8822fec4f5b9b2f7646409f8e20ed3edec05f947cac5"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-47.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/1131d62c-c149-4fb0-8f56-55498eb4dac6.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-47",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 67884,
+      "sha256": "3519176b536980493f67ffc39571c18a514c0f05e74341187ff8556b32fde390"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-48.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/d94615e5-bc0e-4cbb-899b-059c27548246.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-48",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 103371,
+      "sha256": "17033356086651232d4985f2bb84b6aecc04690731a895acd94ba1193569e787"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-49.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/d7124050-5a46-40c5-b045-ef2a7c29698c.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-49",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 114730,
+      "sha256": "2c37ac6c7255d696eceed80f0d0f8693938700296a8e57b872850cf250efc91f"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-50.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/49a5fbf8-c579-4327-afec-9307946a6848.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-50",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 61585,
+      "sha256": "604f300351cedecb5da80865741792780a1422f856ac785e94fd6c3cae973e63"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-51.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/e0155c15-175e-4a7b-8770-c9ac366b81bb.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-51",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 36123,
+      "sha256": "c73242ce503ebf52bd418c983fa77a423a98c3715f44033ee733adf6def95a44"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-52.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/42f7ddcb-fcf0-42ff-9b1a-aed8e209ab12.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-52",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 43047,
+      "sha256": "2d5f00f72956a402931bffab680867e1a3f00d1e6179e88103d8b2262b564455"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/airbnb/airbnb-53.jpg",
+      "source_url": "https://a0.muscache.com/im/pictures/hosting/Hosting-1523014237474008222/original/0505e375-8f49-4c8b-86e5-1e8917801ed8.jpeg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Airbnb image AIRBNB-53",
+      "limitation": "Public file diagnosis only; capture history and physical accuracy require client confirmation.",
+      "bytes": 36179,
+      "sha256": "6111f81dbe4ccdbd4e5401e2e74037df9462f71c414b05bbc14ad70272438434"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/lastminute-first-fold-mobile.webp",
+      "source_url": "https://www.lastminute-cottages.co.uk/properties/united-kingdom/england/north-west/wirral/wallasey/4-bayswater",
+      "checked_date": "2026-08-14",
+      "provenance": "Playwright, 390×844 viewport, cookie overlay dismissed",
+      "limitation": "Dynamic price and scarcity content changes by date/session.",
+      "bytes": 122930,
+      "sha256": "8c7ebc3e59c3c41fc4f8a682d2a02bebc449bfa4ba94f81ce34fd24397faf252"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/lastminute-first-fold.webp",
+      "source_url": "https://www.lastminute-cottages.co.uk/properties/united-kingdom/england/north-west/wirral/wallasey/4-bayswater",
+      "checked_date": "2026-08-14",
+      "provenance": "Playwright, 1440×1000 viewport, cookie overlay dismissed",
+      "limitation": "Dynamic price and scarcity content changes by date/session.",
+      "bytes": 457414,
+      "sha256": "e4b2b41647050640a32eb3ab0bd257871808ef84e3d2617965e7dd8d8e912abe"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/lastminute/lastminute-01.jpg",
+      "source_url": "https://images.snaptrip.com/optim/image/file/94300457/hero_860576743.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Lastminute image LASTMINUTE-01",
+      "limitation": "Ten unique source files counted; the live carousel may duplicate slides for looping.",
+      "bytes": 37869,
+      "sha256": "8d865ad60a8e4bbdf6e7bdc76595e05fdfc3a004d4eea82b39f115d88fc4148e"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/lastminute/lastminute-02.jpg",
+      "source_url": "https://images.snaptrip.com/optim/image/file/94300458/hero_860577506.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Lastminute image LASTMINUTE-02",
+      "limitation": "Ten unique source files counted; the live carousel may duplicate slides for looping.",
+      "bytes": 28236,
+      "sha256": "713fbf51fd3924def1a17aab99a75b990dcc1cbd7d6fc15cac2e6ae2928e1260"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/lastminute/lastminute-03.jpg",
+      "source_url": "https://images.snaptrip.com/optim/image/file/94300459/hero_860577537.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Lastminute image LASTMINUTE-03",
+      "limitation": "Ten unique source files counted; the live carousel may duplicate slides for looping.",
+      "bytes": 31657,
+      "sha256": "655f9fc05ee40f0a5c350eef233822d59679c4b2295f0a1f244ba33a4b4ecbcb"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/lastminute/lastminute-04.jpg",
+      "source_url": "https://images.snaptrip.com/optim/image/file/94300460/hero_860577563.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Lastminute image LASTMINUTE-04",
+      "limitation": "Ten unique source files counted; the live carousel may duplicate slides for looping.",
+      "bytes": 34077,
+      "sha256": "9ef419aa94586a631cb59c55bcb874d2c59ee3a1a57c31ecb7539a151ddc83cb"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/lastminute/lastminute-05.jpg",
+      "source_url": "https://images.snaptrip.com/optim/image/file/94300461/hero_860577593.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Lastminute image LASTMINUTE-05",
+      "limitation": "Ten unique source files counted; the live carousel may duplicate slides for looping.",
+      "bytes": 99190,
+      "sha256": "643f9bdfd95eca4745707b3157e7913e91ab517f365b17f3f3a05a5e873d8ed9"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/lastminute/lastminute-06.jpg",
+      "source_url": "https://images.snaptrip.com/optim/image/file/94300462/hero_860577623.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Lastminute image LASTMINUTE-06",
+      "limitation": "Ten unique source files counted; the live carousel may duplicate slides for looping.",
+      "bytes": 34394,
+      "sha256": "eede2915de6876811246c5615f1f79fc31c7d5fbbf46b3aa46144ef51285b6d9"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/lastminute/lastminute-07.jpg",
+      "source_url": "https://images.snaptrip.com/optim/image/file/94300463/hero_860577645.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Lastminute image LASTMINUTE-07",
+      "limitation": "Ten unique source files counted; the live carousel may duplicate slides for looping.",
+      "bytes": 35889,
+      "sha256": "2746f45b07832f93770468d9e3f23b0445a33588ddb658450780090af8e883bc"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/lastminute/lastminute-08.jpg",
+      "source_url": "https://images.snaptrip.com/optim/image/file/94300464/hero_860577666.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Lastminute image LASTMINUTE-08",
+      "limitation": "Ten unique source files counted; the live carousel may duplicate slides for looping.",
+      "bytes": 37226,
+      "sha256": "82899ee1c268dc4d391197622b4238b3465591bc21714885359faf12c8bcf40b"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/lastminute/lastminute-09.jpg",
+      "source_url": "https://images.snaptrip.com/optim/image/file/94300465/hero_860577693.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Lastminute image LASTMINUTE-09",
+      "limitation": "Ten unique source files counted; the live carousel may duplicate slides for looping.",
+      "bytes": 26652,
+      "sha256": "c695aa882460dd641e6c00a70a9b799f386cd29663fb5f1f60342418925a204f"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/lastminute/lastminute-10.jpg",
+      "source_url": "https://images.snaptrip.com/optim/image/file/94300466/hero_860577719.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Lastminute image LASTMINUTE-10",
+      "limitation": "Ten unique source files counted; the live carousel may duplicate slides for looping.",
+      "bytes": 31520,
+      "sha256": "3a97fa479717fa79c7af3b0b9beb884ee3c0729407edc71d395617a32b0bc479"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/lighthouse/desktop-1.json",
+      "source_url": "https://www.bayswaterdetox.com/",
+      "checked_date": "2026-08-14",
+      "provenance": "Lighthouse desktop raw JSON report",
+      "limitation": "Lighthouse results are controlled lab samples and can vary by device, network, cache and third-party response time.",
+      "bytes": 2578458,
+      "sha256": "2f023a9398db6968a3ef5429ec7119c67e6e087cc86757274cbf897939c4cdc2"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/lighthouse/desktop-2.json",
+      "source_url": "https://www.bayswaterdetox.com/",
+      "checked_date": "2026-08-14",
+      "provenance": "Lighthouse desktop raw JSON report",
+      "limitation": "Lighthouse results are controlled lab samples and can vary by device, network, cache and third-party response time.",
+      "bytes": 2629965,
+      "sha256": "794d041992b5eb7b96e2fc2105f9830794e523ce4c9c15cde1d9879ec644d503"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/lighthouse/desktop-3.json",
+      "source_url": "https://www.bayswaterdetox.com/",
+      "checked_date": "2026-08-14",
+      "provenance": "Lighthouse desktop raw JSON report",
+      "limitation": "Lighthouse results are controlled lab samples and can vary by device, network, cache and third-party response time.",
+      "bytes": 2668969,
+      "sha256": "268e3f2cc0be8b86c66d3d38fb0015f9402e8451a0e610e2f731317bcd7d2ba8"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/lighthouse/mobile-1.json",
+      "source_url": "https://www.bayswaterdetox.com/",
+      "checked_date": "2026-08-14",
+      "provenance": "Lighthouse mobile raw JSON report",
+      "limitation": "Lighthouse results are controlled lab samples and can vary by device, network, cache and third-party response time.",
+      "bytes": 2439763,
+      "sha256": "ff26b562b35773b3a94d1a6c07dd6485d7c88f94cacfdf24da72c68d9a58ddf1"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/lighthouse/mobile-2.json",
+      "source_url": "https://www.bayswaterdetox.com/",
+      "checked_date": "2026-08-14",
+      "provenance": "Lighthouse mobile raw JSON report",
+      "limitation": "Lighthouse results are controlled lab samples and can vary by device, network, cache and third-party response time.",
+      "bytes": 2336476,
+      "sha256": "4dfff8d659fede95d31dc69a5adb60f753ad642cf19b3a1650a84222eb0896c9"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/lighthouse/mobile-3.json",
+      "source_url": "https://www.bayswaterdetox.com/",
+      "checked_date": "2026-08-14",
+      "provenance": "Lighthouse mobile raw JSON report",
+      "limitation": "Lighthouse results are controlled lab samples and can vary by device, network, cache and third-party response time.",
+      "bytes": 2429414,
+      "sha256": "810a8ad93d6c971b2f76e64c5fe816308647a831a2de4edf3cca44d8daab72da"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/website-book-online.webp",
+      "source_url": "https://www.bayswaterdetox.com/book-online",
+      "checked_date": "2026-08-14",
+      "provenance": "Playwright, 1024×768 viewport, full-page",
+      "limitation": "No service purchase was submitted.",
+      "bytes": 354010,
+      "sha256": "066c7248f275034e1fde1c7b856007642be92aee27ffa92562ef86bc4b84fa7d"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/website-experiences.webp",
+      "source_url": "https://www.bayswaterdetox.com/experiences",
+      "checked_date": "2026-08-14",
+      "provenance": "Playwright, 1024×768 viewport, full-page",
+      "limitation": "No event purchase was submitted.",
+      "bytes": 683704,
+      "sha256": "c9ee63888efade8d3ba8f9864d3e9bb950f919db0426e974b780d703f71271ff"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/website-home-desktop.webp",
+      "source_url": "https://www.bayswaterdetox.com/",
+      "checked_date": "2026-08-14",
+      "provenance": "Playwright, 1440×1000 viewport, full-page, no cookie overlay visible",
+      "limitation": "Dynamic elements may render differently on another visit.",
+      "bytes": 1697964,
+      "sha256": "86847ff35c8377fe97fb9f82c31f5ffafc582c57b4d39d2998a08b1415f9cfe6"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/website-home-mobile.webp",
+      "source_url": "https://www.bayswaterdetox.com/",
+      "checked_date": "2026-08-14",
+      "provenance": "Playwright, 390×844 viewport, full-page, no cookie overlay visible",
+      "limitation": "Dynamic elements may render differently on another visit.",
+      "bytes": 654690,
+      "sha256": "aef94a8107475ad7ee141d53370b1e94b56006fafd87e35a13c69131f6ae3f92"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/website-missing-experience.webp",
+      "source_url": "https://www.bayswaterdetox.com/experience-details",
+      "checked_date": "2026-08-14",
+      "provenance": "Playwright, 1024×768 viewport, full-page",
+      "limitation": "Dynamic event parameters could produce other states.",
+      "bytes": 101714,
+      "sha256": "79bf4f2c3e7c1717c269e73fcf972ba32ad2898e64fa33916778fe622559a798"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/website-reservations.webp",
+      "source_url": "https://www.bayswaterdetox.com/reservations",
+      "checked_date": "2026-08-14",
+      "provenance": "Playwright, 1024×768 viewport, full-page",
+      "limitation": "No form was submitted.",
+      "bytes": 156858,
+      "sha256": "27a3a91d124837ea65a082493b0d259568521f842b8fae71a1f382d5b46fcbc4"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/website/website-01.jpg",
+      "source_url": "https://static.wixstatic.com/media/74ac8b_6021cefc9ec042649f9b2349ee5a8bc6~mv2.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Website image WEBSITE-001",
+      "limitation": "Public file inventoried; licence and capture history require client/Wix access.",
+      "bytes": 87933,
+      "sha256": "99d6c4f2c717392f70cc735e22b785e07911672e5404b76b8a654a98fd337ebd"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/website/website-02.jpg",
+      "source_url": "https://static.wixstatic.com/media/74ac8b_83e735dc97b1449abee8f4f33fc09297~mv2.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Website image WEBSITE-002",
+      "limitation": "Public file inventoried; licence and capture history require client/Wix access.",
+      "bytes": 114267,
+      "sha256": "2da88f8d5a7035efe1d900fb364c1af3cb4631bf705a66e23ad7ed35091880ae"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/website/website-03.jpg",
+      "source_url": "https://static.wixstatic.com/media/74ac8b_db5df4eec6a4499eae9cb8acd37e7e29~mv2.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Website image WEBSITE-003",
+      "limitation": "Public file inventoried; licence and capture history require client/Wix access.",
+      "bytes": 74907,
+      "sha256": "d60d6f5edb3393c8a1abd882d7edf991e5ac525cb3aad1629d5dc67e16310e57"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/website/website-04.jpg",
+      "source_url": "https://static.wixstatic.com/media/74ac8b_f5d730e7760c412ea5631bdacebc85ec~mv2.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Website image WEBSITE-004",
+      "limitation": "Public file inventoried; licence and capture history require client/Wix access.",
+      "bytes": 76852,
+      "sha256": "26bfee3417d4cdb32717e88486603beb5a300c09c3432e30b8a5a3a29d9a0f69"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/website/website-05.jpg",
+      "source_url": "https://static.wixstatic.com/media/74ac8b_9ea2a07b7c394accb74abf7a3935bf17~mv2.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Website image WEBSITE-005",
+      "limitation": "Public file inventoried; licence and capture history require client/Wix access.",
+      "bytes": 69708,
+      "sha256": "ce21e964448843e1b307e1fa9b1eaceb62e33bf0afa303f4c72b165770d3f409"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/website/website-06.jpg",
+      "source_url": "https://static.wixstatic.com/media/74ac8b_9a7096059bc24bd1a1e3b13781489158~mv2.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Website image WEBSITE-006",
+      "limitation": "Public file inventoried; licence and capture history require client/Wix access.",
+      "bytes": 92419,
+      "sha256": "c1a8d701e23db7d1361bc6b0001f59a12eea5e4826dc87d9bebf0eff5129b6d8"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/website/website-07.jpg",
+      "source_url": "https://static.wixstatic.com/media/74ac8b_95ec217884ae45259e397577856a9f39~mv2.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Website image WEBSITE-007",
+      "limitation": "Public file inventoried; licence and capture history require client/Wix access.",
+      "bytes": 51458,
+      "sha256": "97fd9f59308c0e33f49dd821be65e9475fce962f598c2496ee0c813ff91602c1"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/website/website-08.jpg",
+      "source_url": "https://static.wixstatic.com/media/11062b_84b5f9073a004298ac09fd6112c18817~mv2.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Website image WEBSITE-008",
+      "limitation": "Public file inventoried; licence and capture history require client/Wix access.",
+      "bytes": 71946,
+      "sha256": "6a500584d79943d80d203965da758d957a276cdd94b318d6ad8d265d38f2d6c8"
+    },
+    {
+      "local_asset": "bayswater-detox-digital-audit-assets/website/website-09.jpg",
+      "source_url": "https://static.wixstatic.com/media/74ac8b_af46a40c34364e93895a118c9ac92dd8~mv2.jpg",
+      "checked_date": "2026-08-14",
+      "provenance": "Public Website image WEBSITE-009",
+      "limitation": "Public file inventoried; licence and capture history require client/Wix access.",
+      "bytes": 74888,
+      "sha256": "22c4964bb93ccca22724e3994201012156deaee4ddab6ba93514ab8e473af4c4"
+    }
+  ]
+}
