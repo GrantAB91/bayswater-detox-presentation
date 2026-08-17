@@ -4,48 +4,53 @@
   "regional_audit_freeze": "2026-08-12",
   "builders": {
     "build_spa_audit_site.py": {
-      "sha256": "c148ea8b976a34a033730599f97cab3d84e3e5e5ab5c0d33506413f8547337ea"
+      "sha256": "0b9f519a400e18a0f85821549b354a268efb655c1fa9351bf6c3aad4bb37b6d8"
     },
     "build_the_house_spa_concept.py": {
-      "sha256": "6453d2b0a867492ff26a4d0702686125329e9aa3de269529edb8cb722f7d4ee4"
+      "sha256": "a603e43ad0118cf8dd124b187ed74856fc74ebbe96e359a4ecccf778e9c74f64"
     },
     "build_bayswater_detox_digital_audit.py": {
-      "sha256": "ee50062291bfbf02db278887c260147bafe02229462337b66e49aa37df3447e7"
+      "sha256": "02e38a906e8e274ba2dc0e035fa3234b15fbc83b5e2878f821355ad311da062e"
     },
     "build_the_house_spa_proposal.py": {
-      "sha256": "bb83389ea86386a0f39b79f07eb8df563bc87a786da293a057445ba8aaf4d53a"
+      "sha256": "99c49db408664690bd84ed43b6f5673563a13bb9734aa62b001b2949a3635f60"
     }
   },
   "pages": {
     "north-west-spa-audit-site.html": {
-      "output_sha256": "fd7dae1c1f599726751db05db0aa3f66003b6a5e50c37315da10eb06b1ba87dd",
-      "public_sha256": "fd7dae1c1f599726751db05db0aa3f66003b6a5e50c37315da10eb06b1ba87dd",
-      "bytes": 6989962
+      "output_sha256": "7247770ea3e3ff81b91fc0fa4c3f717fad51f3f7037822df8f5509bf986edb22",
+      "public_sha256": "7247770ea3e3ff81b91fc0fa4c3f717fad51f3f7037822df8f5509bf986edb22",
+      "bytes": 6975888
     },
     "bayswater-detox-digital-presence-audit.html": {
-      "output_sha256": "2982a12f42772e42e3c79036b07a2034194958b6032b5a9427df4df4a6546deb",
-      "public_sha256": "2982a12f42772e42e3c79036b07a2034194958b6032b5a9427df4df4a6546deb",
-      "bytes": 259632
+      "output_sha256": "24378f4ee9f82c02f64cd520f0b97a6dfdd65abcc96f75f8ff6f37141d46253c",
+      "public_sha256": "24378f4ee9f82c02f64cd520f0b97a6dfdd65abcc96f75f8ff6f37141d46253c",
+      "bytes": 256659
     },
     "bayswater-detox-homepage-concept.html": {
-      "output_sha256": "155a998c45ff1c28d0d7788bb849d119ce37426db7eab4617ce8a221f6e2dab3",
-      "public_sha256": "155a998c45ff1c28d0d7788bb849d119ce37426db7eab4617ce8a221f6e2dab3",
-      "bytes": 77643
+      "output_sha256": "62661efdb3efb8aebd0e60a31f6dbceaf920767c6a4b39c795ff498427c3a616",
+      "public_sha256": "62661efdb3efb8aebd0e60a31f6dbceaf920767c6a4b39c795ff498427c3a616",
+      "bytes": 77655
+    },
+    "bayswater-detox-two-month-growth-proposal.html": {
+      "output_sha256": "5362b04bddc62064e08f3664d746ce49670867cf0b5bfea3c1b58cc5ab1e8c71",
+      "public_sha256": "5362b04bddc62064e08f3664d746ce49670867cf0b5bfea3c1b58cc5ab1e8c71",
+      "bytes": 57839
     },
     "bayswater-detox-90-day-growth-proposal.html": {
-      "output_sha256": "fa7c83a54ca943e5fd6cbb3c002487db671106e6af54f6094c7ffcd5638ca2a4",
-      "public_sha256": "fa7c83a54ca943e5fd6cbb3c002487db671106e6af54f6094c7ffcd5638ca2a4",
-      "bytes": 58403
+      "output_sha256": "5362b04bddc62064e08f3664d746ce49670867cf0b5bfea3c1b58cc5ab1e8c71",
+      "public_sha256": "5362b04bddc62064e08f3664d746ce49670867cf0b5bfea3c1b58cc5ab1e8c71",
+      "bytes": 57839
     },
     "the-house-spa-homepage-concept.html": {
-      "output_sha256": "155a998c45ff1c28d0d7788bb849d119ce37426db7eab4617ce8a221f6e2dab3",
-      "public_sha256": "155a998c45ff1c28d0d7788bb849d119ce37426db7eab4617ce8a221f6e2dab3",
-      "bytes": 77643
+      "output_sha256": "62661efdb3efb8aebd0e60a31f6dbceaf920767c6a4b39c795ff498427c3a616",
+      "public_sha256": "62661efdb3efb8aebd0e60a31f6dbceaf920767c6a4b39c795ff498427c3a616",
+      "bytes": 77655
     },
     "the-house-spa-90-day-proposal.html": {
-      "output_sha256": "fa7c83a54ca943e5fd6cbb3c002487db671106e6af54f6094c7ffcd5638ca2a4",
-      "public_sha256": "fa7c83a54ca943e5fd6cbb3c002487db671106e6af54f6094c7ffcd5638ca2a4",
-      "bytes": 58403
+      "output_sha256": "5362b04bddc62064e08f3664d746ce49670867cf0b5bfea3c1b58cc5ab1e8c71",
+      "public_sha256": "5362b04bddc62064e08f3664d746ce49670867cf0b5bfea3c1b58cc5ab1e8c71",
+      "bytes": 57839
     }
   },
   "shared_assets": {
